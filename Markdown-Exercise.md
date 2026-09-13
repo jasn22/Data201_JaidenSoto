@@ -24,4 +24,4 @@ September 12th, 2026
 3. Hunter X Hunter
 
 ## Links
-Here is a link to the website [Youtube](www.youtube.com), where you can watch videos.
+Here is a link to the website [Youtube](https://www.youtube.com), where you can watch videos.
